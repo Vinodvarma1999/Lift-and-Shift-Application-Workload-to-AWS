@@ -1,4 +1,4 @@
-# Project-3:Lift&Shift Application Workflow to AWS
+# Lift&Shift Application Workflow to AWS
 
 [*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
